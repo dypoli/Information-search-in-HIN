@@ -1,0 +1,20 @@
+vertex type:
+
+user:0
+age:1
+movie:2
+occupation:3
+
+
+
+
+user-age 0 ; 
+age-user 1
+user-Movie 2; 
+movie-user 3
+user-occu 4; 
+occu-user 5
+
+0 2 2 3 0
+
+1 1 0 4 3 5 0 0 1

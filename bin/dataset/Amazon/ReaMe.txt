@@ -1,0 +1,23 @@
+vertex type:
+
+item:0
+brand:1
+category:2
+view:3
+user:4
+
+
+
+item-brand 0 
+brand-item 1
+item-category 2; 
+category-item 3 
+item-view 4; 
+view-item 5
+item-user 6; 
+user-item 7
+
+0 2 2 3 0
+
+3 5 0 2 2 3 0 4 3
+1 1 0 2 2 3 0 0 1
